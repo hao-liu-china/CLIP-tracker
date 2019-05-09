@@ -4,7 +4,7 @@ Hao Liu, Qingyong Hu, Biao Li, Yulan Guo
 
 24th International Conference on Pattern Recognition (ICPR2018), Beijing, China.
 
-This repository includes the code for tracker CLIP. 
+This repository includes the code for long-term tracker CLIP (Complementary Learners with Instance-specific Proposals). 
 
 # Cite
 ~~~
