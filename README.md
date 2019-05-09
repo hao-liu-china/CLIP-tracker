@@ -1,7 +1,9 @@
 Long-term Object Tracking with Instance Specific Proposals
-Hao Liu, Qingyong Hu, Biao Li, Yulan Guo
-24th International Conference on Pattern Recognition (ICPR2018), Beijing, China.
 ===
+Hao Liu, Qingyong Hu, Biao Li, Yulan Guo
+
+24th International Conference on Pattern Recognition (ICPR2018), Beijing, China.
+
 This repository includes the code for tracker CLIP. 
 
 # Cite
